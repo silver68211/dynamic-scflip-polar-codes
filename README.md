@@ -150,8 +150,8 @@ $$m(i) = e^{-\alpha |L_j|} \cdot \prod_{j \le i, j \in \mathcal{I}} \frac{1}{1 +
 
 where:
 
-* ( L_i ) are SC leaf LLRs
-* ( \alpha ) controls smoothness
+* (L_i) are SC leaf LLRs
+* ($\alpha$) controls smoothness
 * candidates are sorted and tested sequentially
 
 ---
